@@ -1,5 +1,8 @@
 <h1 align="center"> To-Do-List-JavaScript </h1>
 
+
+![chrome-capture-2023-1-26 (1)](https://user-images.githubusercontent.com/77020164/221394835-eb92ac02-53e3-42bf-96ac-b5114eb543a6.gif)
+
 ## About The Project
 
 The To-Do List project is a simple web application that allows users to create and manage a list of tasks they need to complete. With a clean and intuitive interface, users can quickly add, edit, and delete tasks, as well as mark tasks as complete.
@@ -47,11 +50,6 @@ To delete a task, click the "Delete" button next to the task you want to delete.
      This is the main file that contains the html code for the To-Do List.
 * `style.css` :
      This file contains the styling for the To-Do List.
-* `app.js` :
+* `script.js` :
      This file contains the logic for the To-Do List, including adding, editing, and deleting tasks, and filtering the task list.
-
-
-
-
-
 
