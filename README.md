@@ -9,6 +9,14 @@ The To-Do List project is a simple web application that allows users to create a
 This project is built with JavaScript and is a great example of a basic web application using DOM manipulation and event listeners.
 
 
+## Blog
+
+Check out our project blog post for more information on the development process and our thoughts on the To Do List project:
+
+* [To Do List Using JS](https://www.codingninjas.com/codestudio/library/building-a-todo-list-using-javascript?utm_source=github&utm_medium=organic&utm_campaign=blog-building-a-todo-list-using-javascript)
+
+
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
